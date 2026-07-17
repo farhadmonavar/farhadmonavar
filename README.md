@@ -1,26 +1,48 @@
-# Hi, I'm Farhad Monavar 👋
-- 📫 How to reach me **farhad.monavar@gmail.com**
+<h1 align="left">Hi, I'm Farhad Monavar 👋</h1>
 
-## 🐍 Python Backend Developer | 📊 Data Analyst | 📈 Financial Data Enthusiast
+<h3 align="left">Python Backend Developer | Data Analyst | Financial Data Enthusiast</h3>
 
-I am a passionate **Python Backend Developer** who enjoys building scalable backend systems, analyzing complex datasets, and discovering valuable insights hidden inside data.
-
-My passion lies at the intersection of **software engineering, data analysis, machine learning, and financial markets**. I love transforming raw data into meaningful information, developing intelligent solutions, and exploring how data can help us understand and predict real-world phenomena.
+I build scalable backend systems, analyze complex datasets, and turn raw data into insight. My work sits at the intersection of **software engineering, data analysis, machine learning, and financial markets** — I enjoy developing intelligent, data-driven solutions and exploring how data can help explain and predict real-world outcomes.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🔭 Currently working on **Python backend development and data-driven applications**
+- 🔭 Currently building **Python backend systems and data-driven applications**
 - 🌱 Continuously learning **Machine Learning, Data Mining, and Financial Analytics**
-- 📊 Passionate about extracting knowledge from data and discovering hidden patterns
+- 📊 Passionate about extracting knowledge and hidden patterns from data
 - 💹 Interested in **financial markets, quantitative analysis, and algorithmic trading**
-- 🧠 Love solving problems through programming, statistics, and data science
-- ⚡ Believe that data is not just information — it is a source of knowledge and decision-making
+- 🧠 Enjoy solving problems through programming, statistics, and data science
+- ⚡ I believe data isn't just information — it's a foundation for knowledge and decision-making
+- 📫 Reach me at **farhad.monavar@gmail.com**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+### 🛠️ Languages & Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,django,docker,git,html,css,js,postman" alt="tech stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+</p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhad-monavar&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-monavar&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhad-monavar&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:farhad.monavar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
