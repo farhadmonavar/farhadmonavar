@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Farhad Monavar 👋</h1>
 
-<h3 align="left">Python Backend Developer | Data Analyst | Financial Data Enthusiast</h3>
+## 🐍 Python Backend Developer | 📊 Data Analyst | 📈 Financial Data Enthusiast
 
 I build scalable backend systems, analyze complex datasets, and turn raw data into insight. My work sits at the intersection of **software engineering, data analysis, machine learning, and financial markets** — I enjoy developing intelligent, data-driven solutions and exploring how data can help explain and predict real-world outcomes.
 
@@ -39,10 +39,3 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 </p>
 
 ---
-
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="mailto:farhad.monavar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
