@@ -33,8 +33,6 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
   <img src="https://streak-stats.demolab.com/?user=farhadmonavar&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
-🧑‍💻 Most Used Languages
-
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=farhadmonavar&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
