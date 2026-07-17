@@ -30,5 +30,5 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhadmonavar&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-
+  <img src="https://streak-stats.demolab.com/?user=farhadmonavar&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
