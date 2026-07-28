@@ -7,7 +7,6 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 ---
 
 ### 🚀 About Me
-
 - 🔭 Currently building **Python backend systems and data-driven applications**
 - 🌱 Continuously learning **Machine Learning, Data Mining, and Financial Analytics**
 - 📊 Passionate about extracting knowledge and hidden patterns from data
@@ -19,7 +18,6 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,django,docker,git,html,css,js,postman" alt="tech stack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
@@ -27,13 +25,16 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Latest Projects
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
+---
+
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=farhadmonavar&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
-
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=farhadmonavar&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
-
