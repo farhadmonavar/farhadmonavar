@@ -19,7 +19,7 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,docker,git,html,css,js,postman" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,django,react,docker,git,html,css,js,postman" alt="tech stack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 </p>
 
