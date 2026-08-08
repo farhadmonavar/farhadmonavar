@@ -44,3 +44,4 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=farhadmonavar&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
+![Top Languages](./profile/languages.svg)
