@@ -41,7 +41,7 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" height="165"/></a>
 </p>
+
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=farhadmonavar&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+  <img src="./profile/languages.svg" alt="Top Languages" height="165"/>
 </p>
-![Top Languages](./profile/languages.svg)
