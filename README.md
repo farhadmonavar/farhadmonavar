@@ -27,7 +27,7 @@ I build scalable backend systems, analyze complex datasets, and turn raw data in
 
 ### 📌 Latest Projects
 <!--START_SECTION:projects-->
-- **[explainable-machine-learning](https://github.com/farhadmonavar/explainable-machine-learning)**
+- **[explainable-machine-learning](https://github.com/farhadmonavar/explainable-machine-learning)** `Jupyter Notebook`
 - **[farhadmonavar](https://github.com/farhadmonavar/farhadmonavar)** `JavaScript`
 - **[lstm-stock-price-prediction](https://github.com/farhadmonavar/lstm-stock-price-prediction)** `Jupyter Notebook`
 - **[django-data-importer](https://github.com/farhadmonavar/django-data-importer)** `JavaScript`
