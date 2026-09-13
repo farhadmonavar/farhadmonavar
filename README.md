@@ -19,7 +19,10 @@ I turn raw, messy data into clear insight and reliable models. My work sits at t
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,jupyter,git,docker" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,git,docker" alt="tech stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
 </p>
 
 ---
