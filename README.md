@@ -1,28 +1,26 @@
 <h1 align="left">Hi, I'm Farhad Monavar 👋</h1>
 
-## 📊 Data Scientist | 🤖 ML Researcher | 🧠 Explainable AI & Deep Learning
+## 🐍 Python Backend Developer | 📊 Data Analyst | 📈 Financial Data Enthusiast
 
-I turn raw, messy data into clear insight and reliable models. My work sits at the intersection of **data analysis, statistical modeling, and deep learning** — I'm especially drawn to problems where understanding *why* a model makes a decision matters as much as the prediction itself.
+I build scalable backend systems, analyze complex datasets, and turn raw data into insight. My work sits at the intersection of **software engineering, data analysis, machine learning, and financial markets** — I enjoy developing intelligent, data-driven solutions and exploring how data can help explain and predict real-world outcomes.
 
 ---
 
 ### 🚀 About Me
-- 🔬 Working as a **Data Scientist & ML Researcher**, focused on turning data into decisions
-- 📊 Specialize in **exploratory data analysis, statistical modeling, and predictive analytics**
-- 🤖 Build and train **deep learning models** with PyTorch and TensorFlow
-- 🧠 Deeply interested in **Explainable AI (XAI)** — SHAP, LIME, and counterfactual explanations
-- 💹 Apply data science to **financial markets and time-series forecasting**
-- ⚡ I believe a model you can't explain isn't one you can fully trust
+- 🔭 Currently building **Python backend systems and data-driven applications**
+- 🌱 Continuously learning **Machine Learning, Data Mining, and Financial Analytics**
+- 📊 Passionate about extracting knowledge and hidden patterns from data
+- 💹 Interested in **financial markets, quantitative analysis, and algorithmic trading**
+- 🧠 Enjoy solving problems through programming, statistics, and data science
+- ⚡ I believe data isn't just information — it's a foundation for knowledge and decision-making
 - 📫 Reach me at **farhad.monavar@gmail.com**
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,git,docker" alt="tech stack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=py,django,react,docker,git,html,css,js,postman" alt="tech stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 </p>
 
 ---
